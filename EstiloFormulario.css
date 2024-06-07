@@ -1,0 +1,73 @@
+body{
+    
+background-image: url(morado.jpg);
+
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+
+height: 100%;
+margin: 0;
+padding: 0;
+
+}
+
+form{
+    width: 400px;
+    background: #96d1e4;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37 px #000;
+
+}
+formulario h4
+{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+form .controles{
+    width: 100%;
+    background: #bddeff;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 14px;
+    color: white;
+    
+
+}
+
+form p{
+height: 40px;
+text-align: center;
+font-size: 18px;
+line-height: 40px;
+}
+
+form a{
+color: white;
+text-decoration: none;
+}
+
+form a :hover{
+    color: white;
+    text-decoration: underline;
+}
+
+form .boton{
+    width: 100%;
+    background: #1f53c5;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+}
